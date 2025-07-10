@@ -1,0 +1,33 @@
+---
+title: "Helena M. Garcia"
+---
+
+::::: {style="display: flex; align-items: flex-start; gap: 20px;"}
+::: {style="flex: 0 0 200px;"}
+<img src="images/IMG-3236-Original.jpg" alt="Credit: Hannah Fetner" style="width: 550px; border-radius: 8px;"/>
+:::
+
+::: {style="flex: 1;"}
+**Research Interests:**\
+flood exposure & impacts\
+climate (im)mobility\
+disaster recovery\
+environmental justice
+
+**Email:** hmgarcia\@unc.edu\
+[![Bluesky](images/bluesky_icon.png){width="24px"}](https://bsky.app/profile/hmgarciaaa.bsky.social) [![LinkedIn](images/linkedin_icon.png){width="24px"}](https://www.linkedin.com/in/helena-garcia-7a291b119/) [![ORCID](images/orcid_icon.png){width="24px"}](https://orcid.org/0009-0008-3189-1658)
+
+**Advisors:** Miyuki Hino,\
+Antonia Sebastian\
+**Committee:** Todd BenDor,\
+Greg Characklis,\
+Elizabeth Frankenberg
+:::
+:::::
+
+I am an early-career scientist studying the impacts of climate change and natural hazards, with a focus on how flooding affects people and communities. My work combines spatial analysis and administrative data to identify patterns of repetitive flood exposure and to assess how these experiences shape migration, adaptation, and community resilience.
+
+I am currently a PhD candidate in the [Environment, Ecology, and Energy Program (E3P)](https://e3p.unc.edu/) at the University of North Carolina at Chapel Hill.
+
+
+You can download a PDF of my CV [here](cv/Curriculum%20Vitae_Garcia_2025_07.pdf).
