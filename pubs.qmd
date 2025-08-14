@@ -6,7 +6,7 @@ format: html
 **Reconstructing Repetitive Flood Exposure Across 78 Events From 1996-2020 in North Carolina, USA**   
 **Garcia, H.M.**, Sebastian, A., Fitzmaurice, K.P., Hino, M., Collins, E.L., Characklis, G.W.  
 [*Earth's Future*, 2025](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025EF006026)   
-Coverage: [UNC News](https://uncnews.unc.edu/2025/07/14/unc-flooding-study-research-nc/), [WPFT Afternoon News](https://rss.com/podcasts/wptf-afternoon-news/2109244/), [WRAL News](https://www.wral.com/news/local/unc-study-flood-prone-homes-outside-fema-map-chapel-hill/), [WUNC](https://www.wunc.org/environment/2025-07-15/flood-maps-risk-repeat-flooding), [WBTV](https://www.wbtv.com/video/2025/07/15/unc-study-reveals-widespread-overlooked-flooding/)
+Coverage: [UNC News](https://uncnews.unc.edu/2025/07/14/unc-flooding-study-research-nc/), [WPFT Afternoon News](https://rss.com/podcasts/wptf-afternoon-news/2109244/), [WRAL News](https://www.wral.com/news/local/unc-study-flood-prone-homes-outside-fema-map-chapel-hill/), [NPR WUNC](https://www.wunc.org/environment/2025-07-15/flood-maps-risk-repeat-flooding), [WBTV](https://www.wbtv.com/video/2025/07/15/unc-study-reveals-widespread-overlooked-flooding/), amoung others
 
 **Flood risks to the financial stability of residential mortgage borrowers: An integrated modeling approach**  
 Fitzmaurice, K.P, **Garcia, H.M.**, Sebastian, A., Thomson, H., Zeff, H.B., Characklis, G.W.  
