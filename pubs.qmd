@@ -8,6 +8,10 @@ format: html
 [*Earth's Future*, 2025](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025EF006026)   
 Coverage: [UNC News](https://uncnews.unc.edu/2025/07/14/unc-flooding-study-research-nc/), [WPFT Afternoon News](https://rss.com/podcasts/wptf-afternoon-news/2109244/), [WRAL News](https://www.wral.com/news/local/unc-study-flood-prone-homes-outside-fema-map-chapel-hill/), [NPR WUNC](https://www.wunc.org/environment/2025-07-15/flood-maps-risk-repeat-flooding), [WBTV](https://www.wbtv.com/video/2025/07/15/unc-study-reveals-widespread-overlooked-flooding/), [CBS17 News](https://www.cbs17.com/news/local-news/homebuyers-urged-to-assess-flood-risks-and-insurance-costs-amid-turbulent-weather-in-north-carolina/#:~:text=%E2%80%9COne%20inch%20of%20water%20can,All%20rights%20reserved), among others
 
+**Coastal squeeze reduces nitrogen removal ecosystem services provided by wetlands and open spaces: insights from an interdisciplinary framework**  
+Smiley, A.M.H., Grimley, L.E., **Garcia, H.M.**, Sebastian, A., Berke, P.R., Hino, M., Piehler, M.F.  
+*Accepted at Environmental Research Letters*
+
 **Flood risks to the financial stability of residential mortgage borrowers: An integrated modeling approach**  
 Fitzmaurice, K.P, **Garcia, H.M.**, Sebastian, A., Thomson, H., Zeff, H.B., Characklis, G.W.  
 *Under review at Natural Hazards and Earth System Sciences (NHESS)*  
@@ -19,10 +23,6 @@ Schlumberger, J., Stolte, T., **Garcia, H.M.**, Sebastian, A., Jäger, W., Ward,
 *Under review at Natural Hazards and Earth System Sciences (NHESS)*  
 [Preprint](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-850/egusphere-2025-850.pdf)  
 
-
-**Coastal squeeze reduces ecosystem services provided by wetlands and open spaces: insights from an interdisciplinary framework**  
-Smiley, A.M.H., Grimley, L.E., **Garcia, H.M.**, Sebastian, A., Berke, P.R., Hino, M., Piehler, M.F.  
-*Under review at Environmental Research Letters*
 
 **The value of wetlands in reducing flood losses** \
 Gourevitch, J.D., Gold, A.C., **Garcia, H.M.**\
