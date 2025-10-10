@@ -10,7 +10,7 @@ Coverage: [UNC News](https://uncnews.unc.edu/2025/07/14/unc-flooding-study-resea
 
 **Coastal squeeze reduces nitrogen removal services provided by wetlands: insights from an interdisciplinary framework**  
 Smiley, A.M.H., Grimley, L.E., **Garcia, H.M.**, Sebastian, A., Berke, P.R., Hino, M., Piehler, M.F.  
-[*ERL*, 2025](https://iopscience.iop.org/article/10.1088/1748-9326/ae0cde/pdf)   
+[*Environmental Research Letters*, 2025](https://iopscience.iop.org/article/10.1088/1748-9326/ae0cde/pdf)    
 
 **Flood risks to the financial stability of residential mortgage borrowers: An integrated modeling approach**  
 Fitzmaurice, K.P, **Garcia, H.M.**, Sebastian, A., Thomson, H., Zeff, H.B., Characklis, G.W.  
@@ -26,4 +26,4 @@ Schlumberger, J., Stolte, T., **Garcia, H.M.**, Sebastian, A., Jäger, W., Ward,
 
 **The value of wetlands in reducing flood losses** \
 Gourevitch, J.D., Gold, A.C., **Garcia, H.M.**\
-*Under review at PNAS*
+*Under review at Nature Climate Change*

@@ -6,7 +6,7 @@ title: "Helena M. Garcia"
 ::: {style="flex: 0 0 200px;"}
 <img src="images/IMG-3236-Original.jpg" alt="Credit: Hannah Fetner" style="width: 550px; border-radius: 8px;"/>
 :::
-
+ 
 ::: {style="flex: 1;"}
 **Research Interests:**\
 flood exposure & impacts\
