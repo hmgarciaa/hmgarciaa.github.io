@@ -12,6 +12,10 @@ Coverage: [UNC News](https://uncnews.unc.edu/2025/07/14/unc-flooding-study-resea
 Smiley, A.M.H., Grimley, L.E., **Garcia, H.M.**, Sebastian, A., Berke, P.R., Hino, M., Piehler, M.F.  
 [*Environmental Research Letters*, 2025](https://iopscience.iop.org/article/10.1088/1748-9326/ae0cde)    
 
+**The value of wetlands in reducing flood losses** \
+Gourevitch, J.D., Gold, A.C., **Garcia, H.M.**\
+*Nature Water* (revise & resubmit)
+
 **Flood risks to the financial stability of residential mortgage borrowers: An integrated modeling approach**  
 Fitzmaurice, K.P, **Garcia, H.M.**, Sebastian, A., Thomson, H., Zeff, H.B., Characklis, G.W.  
 *Under review at Natural Hazards and Earth System Sciences (NHESS)*  
@@ -24,6 +28,3 @@ Schlumberger, J., Stolte, T., **Garcia, H.M.**, Sebastian, A., Jäger, W., Ward,
 [Preprint](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-850/egusphere-2025-850.pdf)  
 
 
-**The value of wetlands in reducing flood losses** \
-Gourevitch, J.D., Gold, A.C., **Garcia, H.M.**\
-*Under review at Proceedings of the National Academies of Sciences (PNAS)*
