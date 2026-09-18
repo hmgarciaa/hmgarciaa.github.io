@@ -18,14 +18,10 @@ adaptation & decision making
 **Email:** helena.garcia\@dartmouth.edu\
 [![Bluesky](images/bluesky_icon.png){width="24px"}](https://bsky.app/profile/hmgarciaaa.bsky.social) [![LinkedIn](images/linkedin_icon.png){width="24px"}](https://www.linkedin.com/in/helena-garcia-7a291b119/) [![ORCID](images/orcid_icon.png){width="24px"}](https://orcid.org/0009-0008-3189-1658)
 
-
-**Postdoc Advisors:** Klaus Keller,
-Justin Mankin\
+**Postdoc Advisors:** Klaus Keller, Justin Mankin\
 **PhD Advisors:** Miyuki Hino,\
 Antonia Sebastian\
-<!-- **Committee:** Todd BenDor,\ -->
-<!-- Greg Characklis,\ -->
-<!-- Elizabeth Frankenberg -->
+<!-- **Committee:** Todd BenDor,\ --> <!-- Greg Characklis,\ --> <!-- Elizabeth Frankenberg -->
 :::
 :::
 
